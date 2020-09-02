@@ -1,0 +1,15 @@
+[submodule "Assignment1"]
+	path = Assignment1
+	url = https://github.com/csx42/csx42-summer-2020-assign1-Madhan-GitHub.git
+[submodule "Assignment2"]
+	path = Assignment2
+	url = https://github.com/csx42/csx42-summer-2020-assign2-Madhan-GitHub.git
+[submodule "Assignment3"]
+	path = Assignment3
+	url = https://github.com/csx42/csx42-summer-2020-assign3-Madhan-GitHub.git
+[submodule "Assignment4"]
+	path = Assignment4
+	url = https://github.com/csx42/csx42-summer-2020-assign4-Madhan-GitHub.git
+[submodule "Assignment5"]
+	path = Assignment5
+	url = https://github.com/csx42/csx42-summer-2020-assign5-Madhan-GitHub.git
